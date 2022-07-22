@@ -1,0 +1,3 @@
+Hello. This is an example of Java Programming.
+This is to demonstrate the updation in file.
+It is a part of assisted something Project.
